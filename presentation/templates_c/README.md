@@ -1,0 +1,1 @@
+ The templates_c folder will contain the compiled Smarty templates; these are files generated automatically by the Smarty engine.
